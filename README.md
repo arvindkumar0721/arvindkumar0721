@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/in/arvind-kumar-aa9181267" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://leetcode.com/https://leetcode.com/u/ArnjLQrysF/" target="_blank" rel="noreferrer noopener" title="LeetCode" class="social-icon-link">
+  <a href="https://leetcode.com/u/ArnjLQrysF/" target="_blank" rel="noreferrer noopener" title="LeetCode" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" height="35" width="35" style="vertical-align: middle;"/>
   </a>
 </p>
